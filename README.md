@@ -11,8 +11,9 @@
 ---
 <h2 align="center">Social Links 🔗 </h2>
 <p align="center">
-<a href="https://github.com/Dinesh-Solanki" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
- <a href="https://www.linkedin.com/in/dinesh-solanki-g-416a391a8/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> 
+<a href="https://www.linkedin.com/in/dinesh-solanki-g-416a391a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dinesh%20Solanki%20G-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/dinesh_s.g/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dinesh_s.g-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:dineshsolankig2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dineshsolankig2001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
                                                        
